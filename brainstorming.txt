@@ -4,3 +4,11 @@ priemerna vzdialenost 2 vybranych knih (cez kolkatich recenzentov ide cesta)
 strukturalna podobnost 2 pouzivatelov
 
 diameter siete -> cez kolko ludi si poziciam knihu?
+
+projekcia z bipartitneho grafu na unipartitny graf, kde zanechame - knihy:
+(2 knihy su spojene, ked 1 recenzent hodnotil obe)
+    1. "na kolko % je takyto graf kompletny?"
+    2. ...
+
+projekcia z bipartitneho, kde zanechame recenzentov:
+    1. mozne otazky
