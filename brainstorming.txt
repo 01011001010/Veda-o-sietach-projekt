@@ -3,3 +3,8 @@ distribucia citatielov/knih s ich priemernym hodnotenim
 priemerna vzdialenost 2 vybranych knih (cez kolkatich recenzentov ide cesta)
 strukturalna podobnost 2 pouzivatelov
 
+zistit jazyky k nich z db??? co s tym
+
+projekcia z bipartitneho na normlany graf, nechame vrcholy - knihy:
+    1. "na kolko % je tento graf kompletny?"
+    2.
