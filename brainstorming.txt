@@ -3,3 +3,4 @@ distribucia citatielov/knih s ich priemernym hodnotenim
 priemerna vzdialenost 2 vybranych knih (cez kolkatich recenzentov ide cesta)
 strukturalna podobnost 2 pouzivatelov
 
+diameter siete -> cez kolko ludi si poziciam knihu?
