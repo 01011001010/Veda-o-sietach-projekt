@@ -1,6 +1,8 @@
 pozriet distribuciu stupna vrcholov, pre aj knihy aj recenzentov
 distribucia citatielov/knih s ich priemernym hodnotenim
+
 priemerna vzdialenost 2 vybranych knih (cez kolkatich recenzentov ide cesta)
+
 strukturalna podobnost 2 pouzivatelov
 
 diameter siete -> cez kolko ludi si poziciam knihu?
@@ -12,3 +14,5 @@ projekcia z bipartitneho grafu na unipartitny graf, kde zanechame - knihy:
 
 projekcia z bipartitneho, kde zanechame recenzentov:
     1. mozne otazky
+
+viazualizacia na preskumanie
