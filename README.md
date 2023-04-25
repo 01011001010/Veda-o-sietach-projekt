@@ -19,3 +19,12 @@ download data [here](https://nrvis.com/download/data/dynamic/rec-amz-Books.zip)
     -funkcia do ktorej vložíme daný graf 
     -funkcia na vypočítanie pravdepodobnosti
     -funkcia na predikovanie podobnej knihy 
+
+
+### (Kika + Hana) –> projekcia grafu + základné charakteristiky + klasifiácia
+    - hustota grafu
+    - najkratsia cesta medzi 2ma vrcholmi
+    - diameter
+    - zhlukovy koeficient
+    - viacere typy centralít(degree, betweenness, eigenvectors, ...)
+    - modularita - klasifikácia
