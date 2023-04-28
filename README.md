@@ -12,7 +12,7 @@ link to overleaf pdf [here](https://www.overleaf.com/7695275431ghcqqqzqrwhp)
 ->cieľ: vytvoríme algoritmus, ktorý odporučí užívateľovi knihu 
 
     - na základe podobnosti (štrukturálna ekvivalencia), využijeme kosínosovú podobnosť
-    - použijeme knižnicu isbntools - vieme zistiť názov knihy, autora, rok a vydavateľstvo 
+    - použijeme knižnicu isbnlib - vieme zistiť názov knihy, autora, rok a vydavateľstvo 
     - navrhneme podobným čitateľom knihy od iných čitateľov aj na základe toho či obľubujú konkrétne vydavateľstvo alebo čítajú knihy z nejakého roku/desaťročia/iný časový úsek 
     
     
@@ -20,6 +20,7 @@ link to overleaf pdf [here](https://www.overleaf.com/7695275431ghcqqqzqrwhp)
 
     -funkcia do ktorej vložíme daný graf 
     -funkcia na vypočítanie pravdepodobnosti
+    -funkcie na získanie metadát
     -funkcia na predikovanie podobnej knihy 
 
 
